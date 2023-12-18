@@ -16,6 +16,10 @@ rustup update
 
 
 3,运行
+```
+cargo run --release           
+
+```
 
 # Tips
 1. **rpc设置 `必填`:**  google rpc + 链名称都能搜到，或者上https://chainlist.org/也可以查看链的rpc
