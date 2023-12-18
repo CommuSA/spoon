@@ -1,0 +1,1 @@
+/Users/specterm1/mylife/CommuSA/brc20/evm_Ink_Rs/target/release/evm_ink_rs: /Users/specterm1/mylife/CommuSA/brc20/evm_Ink_Rs/src/initialization.rs /Users/specterm1/mylife/CommuSA/brc20/evm_Ink_Rs/src/main.rs

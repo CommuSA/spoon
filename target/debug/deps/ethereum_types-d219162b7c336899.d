@@ -1,0 +1,7 @@
+/Users/specterm1/mylife/CommuSA/brc20/evm_Ink_Rs/target/debug/deps/ethereum_types-d219162b7c336899.rmeta: /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethereum-types-0.14.1/src/lib.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethereum-types-0.14.1/src/hash.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethereum-types-0.14.1/src/uint.rs
+
+/Users/specterm1/mylife/CommuSA/brc20/evm_Ink_Rs/target/debug/deps/ethereum_types-d219162b7c336899.d: /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethereum-types-0.14.1/src/lib.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethereum-types-0.14.1/src/hash.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethereum-types-0.14.1/src/uint.rs
+
+/Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethereum-types-0.14.1/src/lib.rs:
+/Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethereum-types-0.14.1/src/hash.rs:
+/Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ethereum-types-0.14.1/src/uint.rs:

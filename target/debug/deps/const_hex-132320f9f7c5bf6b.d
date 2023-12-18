@@ -1,0 +1,10 @@
+/Users/specterm1/mylife/CommuSA/brc20/evm_Ink_Rs/target/debug/deps/const_hex-132320f9f7c5bf6b.rmeta: /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/lib.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/arch/mod.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/arch/generic.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/impl_core.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/buffer.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/arch/aarch64.rs
+
+/Users/specterm1/mylife/CommuSA/brc20/evm_Ink_Rs/target/debug/deps/const_hex-132320f9f7c5bf6b.d: /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/lib.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/arch/mod.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/arch/generic.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/impl_core.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/buffer.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/arch/aarch64.rs
+
+/Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/lib.rs:
+/Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/arch/mod.rs:
+/Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/arch/generic.rs:
+/Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/impl_core.rs:
+/Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/buffer.rs:
+/Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/arch/aarch64.rs:

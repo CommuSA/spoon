@@ -1,0 +1,10 @@
+/Users/specterm1/mylife/CommuSA/brc20/evm_Ink_Rs/target/debug/deps/coins_core-0189c3a3949598b2.rmeta: /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/lib.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/macros.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/enc.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/hashes.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/prelude.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/ser.rs
+
+/Users/specterm1/mylife/CommuSA/brc20/evm_Ink_Rs/target/debug/deps/coins_core-0189c3a3949598b2.d: /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/lib.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/macros.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/enc.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/hashes.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/prelude.rs /Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/ser.rs
+
+/Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/lib.rs:
+/Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/macros.rs:
+/Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/enc.rs:
+/Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/hashes.rs:
+/Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/prelude.rs:
+/Users/specterm1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/ser.rs:
